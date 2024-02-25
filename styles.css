@@ -19,6 +19,9 @@ body {
     background-color: hsl(0, 0%, 100%);
     max-width: 90%;
     margin: auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 1em;
 }
 
 img {
