@@ -31,8 +31,16 @@ img {
 
 h2 {
     color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 1.5em;
 }
 
 .qr-body-copy {
     color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.attribution {
+    margin-bottom: 10px;
 }
