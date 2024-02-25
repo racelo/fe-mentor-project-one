@@ -17,9 +17,9 @@ body {
 
 .container {
     background-color: hsl(0, 0%, 100%);
-    max-width: 90%;
+    max-width: 300px;
     margin: auto;
-    padding: 18px 18px 45px;
+    padding: 18px 18px 40px;
     text-align: center;
     border-radius: 1em;
 }
@@ -39,8 +39,15 @@ h2 {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 1em;
+    padding: 0 10px;
 }
 
 .attribution {
     margin-bottom: 10px;
 }
+
+/* @media screen and (min-width: 900px) {
+    .container {
+        max-width: 25%;
+    }
+} */
