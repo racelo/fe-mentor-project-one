@@ -51,4 +51,4 @@ Subjects to focus on:
 ## Author
 
 - Frontend Mentor - [@racelo](https://www.frontendmentor.io/profile/racelo)
-- Twitter - [@yourusername](https://www.twitter.com/_race05)
+- Twitter - [@_race05](https://www.twitter.com/_race05)
